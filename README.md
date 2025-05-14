@@ -20,5 +20,5 @@ You can modify `script.js` to include your own message templates or logic. Open 
 ## Example Output
 When you run the script, it will generate a random message, such as:
 ```
-Your random message: "Keep pushing forward!"
+Your random message: "A tree hopes you will call your friend."
 ```
