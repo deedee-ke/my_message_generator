@@ -9,6 +9,6 @@ const getRandom = (arr) => {
 const subject = getRandom(subjects);
 const verb = getRandom(verbs);  
 const message = getRandom(messages);
-const randomMessage = `${subject} ${verb} ${message}.`;
+const randomMessage = `Your random message: ${subject} ${verb} ${message}.`;
 
 console.log(randomMessage);
